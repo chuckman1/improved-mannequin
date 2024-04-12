@@ -1,0 +1,21 @@
+body{
+    font-family: Lato, sans-serif;
+}
+form {
+    text-align: center;
+    width: 325px;
+    margin: 225px auto 0 auto;
+    border: 2px solid;
+    border-radius: 8px
+}
+input {
+    padding: 5px 10px;
+    margin: 10px auto;
+    font-size: 15px
+}
+input[type=submit] {
+    padding: 3px 110px;
+    margin-bottom: 20px;
+    border: 1px solid darkgrey;
+    border-radius: 8px;
+}
